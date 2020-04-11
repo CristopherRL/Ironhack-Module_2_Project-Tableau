@@ -6,7 +6,7 @@ This project was developed in base of a Kaggle's database which was created by a
 The main technology used in this project was Tableau
 
 ## Data Explanation
-The database consisted of the following features:
+The original database consists of the following features:
 - Band name
 - Numbers of official fans on their websites
 - Year which the band was created
@@ -15,8 +15,8 @@ The database consisted of the following features:
 - Styles of the band
 
 ## Analysis Explanation
-There is a serie of transformations on data, getting new features and having new information bout metal bands:
-- Decade of formatio: Bands were grouped by the decade when they have been formed, to consider which was the most popular
+There is a serie of transformations in the original data, getting new features and having new information about metal bands:
+- Decade of formation: Bands were grouped by the decade when they have been formed, to consider which was the most popular
 - TOP 10 fans number: There is a bands list with more official fans, divided by countries
 - Metal styles: 
 
