@@ -1,6 +1,7 @@
 # Tableau Project
 
-This project was developed in base of a Kaggle's database which was created by a user who scrapped www.metalstorm.net
+This project consist in analyzing the evalotion of Metal bands in the world and more other features related.
+It was developed in base of a Kaggle's database which was created by a user who scrapped www.metalstorm.net.
 
 ## Technology stack
 The main technology used in this project was Tableau
